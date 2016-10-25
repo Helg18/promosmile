@@ -1,0 +1,1 @@
+<h2>Se agregaron logotipos al pedido # {{$id}}</h2>
